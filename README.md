@@ -1,3 +1,3 @@
 # Capstone
 
-Repository to maintain the project related file.
+Repository to maintain the capstone project related file.
